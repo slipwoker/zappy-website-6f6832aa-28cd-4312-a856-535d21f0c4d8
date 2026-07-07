@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-6f6832aa.zappy5.app
+https://example.com
 קלינאית תקשורת לילדים בגיל הרך בתל אביב, המשלבת טיפול במשחק והדרכת הורים בגישת אדלר. גישה חמה והוליסטית שתעניק לילדכם את המתנה הגדולה מכולן – חדוות הלמידה.
 
 ### אודות ניצן
-https://-6f6832aa.zappy5.app/about
+https://example.com/about
 הכירו את ניצן אמסטר, קלינאית תקשורת התפתחותית באיזור יד אליהו וגבעתיים, המשלבת מומחיות קלינית עם אהבה אמיתית לילדים. כך הופכים אתגרי שפה ודיבור להזדמנות לצמיחה משפחתית.
 
 ### קלינאות תקשורת
-https://-6f6832aa.zappy5.app/speech-therapy
+https://example.com/speech-therapy
 טיפול קלינאות תקשורת בגישה משחקית לילדים מגיל שנה ועד כיתה א&#39;. משלבת שיטות PROMPT ו-Myotaf לאבחון וטיפול בעיכוב שפתי, קשיי היגוי והפרעות בליעה. הצעד הראשון לעולם עשיר במילים מתחיל כאן.
 
 ### הדרכת הורים וצוותים חינוכיים
-https://-6f6832aa.zappy5.app/parent-coaching-education
+https://example.com/parent-coaching-education
 הדרכת הורים בגישת אדלר והנחיית צוותים חינוכיים בגני ילדים. כלים פרקטיים וראייה מערכתית שיעזרו לכם ליצור סביבת צמיחה תומכת ומקדמת. כי הורות היא המסע, ואנחנו פה כדי ללכת בו יחד.
 
 ### שאלות נפוצות והמלצות
-https://-6f6832aa.zappy5.app/faq-recommendations
+https://example.com/faq-recommendations
 שאלות נפוצות על טיפול קלינאות תקשורת, אבחון שפה ודיבור והדרכת הורים – לצד המלצות חמות מלקוחות. גלו איך מפגש אחד יכול לשנות תמונה שלמה ולפתוח דלת לעולם חדש של תקשורת.
 
 ### צור קשר
-https://-6f6832aa.zappy5.app/contact
+https://example.com/contact
 מוכנים להעניק לילדכם את הקול המחכה לו? צרו קשר עוד היום לתיאום פגישת היכרות במרפאה באיזור מזרח תל אביב. מבטיחה לכם התחלה חמה, משחקית ומלאת תקווה.
 
 ### תודה - פנייתך התקבלה
-https://-6f6832aa.zappy5.app/thank-you
+https://example.com/thank-you
 ניצן אמסטר- קלינאית תקשורת ומדריכת הורים - תודה - פנייתך התקבלה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-6f6832aa.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-6f6832aa.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-6f6832aa.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -55,8 +55,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-6f6832aa.zappy5.app/contact
-- Endpoint: https://-6f6832aa.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Speech-Language Pathology & Parent Coaching
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-6f6832aa.zappy5.app/sitemap.xml
-- Robots: https://-6f6832aa.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-6f6832aa.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
