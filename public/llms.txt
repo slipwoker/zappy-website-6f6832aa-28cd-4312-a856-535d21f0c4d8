@@ -1,0 +1,91 @@
+# ניצן אמסטר- קלינאית תקשורת ומדריכת הורים — Generative Engine Optimization Map
+
+> Nitzan Amster is a warm, play-based developmental speech-language pathologist and parent coach based in Tel Aviv, specializing in early childhood (ages 1 to first grade). Her practice philosophy centers on joy and natural play as the core of learning and development — 'learning to play and playing to learn.' She combines clinical expertise (PROMPT, Myotaf, feeding/swallowing disorders) with Adlerian parent coaching, offering a holistic approach that supports both children and families. Her clinic serves families in east Tel Aviv and surrounding neighborhoods, and she also provides professional guidance to educational staff in kindergartens. Her brand radiates warmth, professional credibility, and genuine love for young children.
+
+---
+
+## Pages
+
+### בית
+https://-6f6832aa.zappy5.app
+קלינאית תקשורת לילדים בגיל הרך בתל אביב, המשלבת טיפול במשחק והדרכת הורים בגישת אדלר. גישה חמה והוליסטית שתעניק לילדכם את המתנה הגדולה מכולן – חדוות הלמידה.
+
+### אודות ניצן
+https://-6f6832aa.zappy5.app/about
+הכירו את ניצן אמסטר, קלינאית תקשורת התפתחותית באיזור יד אליהו וגבעתיים, המשלבת מומחיות קלינית עם אהבה אמיתית לילדים. כך הופכים אתגרי שפה ודיבור להזדמנות לצמיחה משפחתית.
+
+### קלינאות תקשורת
+https://-6f6832aa.zappy5.app/speech-therapy
+טיפול קלינאות תקשורת בגישה משחקית לילדים מגיל שנה ועד כיתה א&#39;. משלבת שיטות PROMPT ו-Myotaf לאבחון וטיפול בעיכוב שפתי, קשיי היגוי והפרעות בליעה. הצעד הראשון לעולם עשיר במילים מתחיל כאן.
+
+### הדרכת הורים וצוותים חינוכיים
+https://-6f6832aa.zappy5.app/parent-coaching-education
+הדרכת הורים בגישת אדלר והנחיית צוותים חינוכיים בגני ילדים. כלים פרקטיים וראייה מערכתית שיעזרו לכם ליצור סביבת צמיחה תומכת ומקדמת. כי הורות היא המסע, ואנחנו פה כדי ללכת בו יחד.
+
+### שאלות נפוצות והמלצות
+https://-6f6832aa.zappy5.app/faq-recommendations
+שאלות נפוצות על טיפול קלינאות תקשורת, אבחון שפה ודיבור והדרכת הורים – לצד המלצות חמות מלקוחות. גלו איך מפגש אחד יכול לשנות תמונה שלמה ולפתוח דלת לעולם חדש של תקשורת.
+
+### צור קשר
+https://-6f6832aa.zappy5.app/contact
+מוכנים להעניק לילדכם את הקול המחכה לו? צרו קשר עוד היום לתיאום פגישת היכרות במרפאה באיזור מזרח תל אביב. מבטיחה לכם התחלה חמה, משחקית ומלאת תקווה.
+
+### תודה - פנייתך התקבלה
+https://-6f6832aa.zappy5.app/thank-you
+ניצן אמסטר- קלינאית תקשורת ומדריכת הורים - תודה - פנייתך התקבלה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6f6832aa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6f6832aa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6f6832aa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-6f6832aa.zappy5.app/contact
+- Endpoint: https://-6f6832aa.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ניצן אמסטר- קלינאית תקשורת ומדריכת הורים
+Nitzan Amster is a warm, play-based developmental speech-language pathologist and parent coach based in Tel Aviv, specializing in early childhood (ages 1 to first grade). Her practice philosophy centers on joy and natural play as the core of learning and development — 'learning to play and playing to learn.' She combines clinical expertise (PROMPT, Myotaf, feeding/swallowing disorders) with Adlerian parent coaching, offering a holistic approach that supports both children and families. Her clinic serves families in east Tel Aviv and surrounding neighborhoods, and she also provides professional guidance to educational staff in kindergartens. Her brand radiates warmth, professional credibility, and genuine love for young children.
+
+## Target Audience
+- הורים לילדים בגיל הרך (שנה עד כיתה א'), צוותים חינוכיים בגנים
+- הורים צעירים בגיל הרך
+- צוותים חינוכיים בגנים
+- הורים מודעים לבריאות
+
+## Industry
+Speech-Language Pathology & Parent Coaching
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-6f6832aa.zappy5.app/sitemap.xml
+- Robots: https://-6f6832aa.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-6f6832aa.zappy5.app/llms-full.txt
