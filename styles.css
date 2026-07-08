@@ -69,7 +69,7 @@
 }
 :root {
 --primary: #F3E7D3;
-  --secondary: #C9785B;
+  --secondary: #DDA28C;
   --accent: #008080;
   --bg-light: #FFFFFF;
   --bg-dark: #3C3128;
@@ -77,7 +77,7 @@
   --text-light: #FBF6EC;
   --text-muted: #707070;
   --border-light: #897f71;
-  --border-dark: #008080;
+  --border-dark: #9e8d7e;
   --nav-bg: #FBF6EC;
   --nav-text: #3C3128;
   --nav-text-hover: #C9785B;
@@ -99,7 +99,7 @@
   --transition-default: all 0.3s ease;
   --transition-hover: all 0.3s ease;
   --primary-color: #F3E7D3;
-  --secondary-color: #C9785B;
+  --secondary-color: #DDA28C;
   --accent-color: #008080;
   --background-color: #FFFFFF;
   --surface-color: #F9FAFB;
@@ -1114,7 +1114,7 @@ html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .dropdown-menu {
     order: 0 !important;
     padding: 16px 28px;
     border-radius: 999px;
-    background: var(--primary, var(--accent, #C9785B)) !important;
+    background: var(--primary, var(--accent, #DDA28C)) !important;
     color: #ffffff !important;
     font-size: 1.1rem;
     font-weight: 700;
@@ -1535,7 +1535,7 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 
 :root {
   --primary: #F3E7D3;
-  --secondary: #C9785B;
+  --secondary: #DDA28C;
   --accent: #008080;
   --bg-light: #FFFFFF;
   --bg-dark: #3C3128;
@@ -1543,7 +1543,7 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
   --text-light: #FBF6EC;
   --text-muted: #707070;
   --border-light: #897f71;
-  --border-dark: #008080;
+  --border-dark: #9e8d7e;
   --radius: 24px;
   --shadow: 0 2px 12px rgba(0,0,0,0.12);
   --transition: all 0.3s ease;
@@ -1929,7 +1929,7 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 
 
 /* V2 Decorative Helpers — quote marks */
-:root { --decorative-quote-color: var(--accent, #C9785B); --decorative-quote-font: var(--accent-font, var(--font-display, serif)); }
+:root { --decorative-quote-color: var(--accent, #DDA28C); --decorative-quote-font: var(--accent-font, var(--font-display, serif)); }
 blockquote::before, .quote::before, [data-quote]::before {
   content: "\201C";
   font-family: var(--decorative-quote-font);
@@ -1960,7 +1960,7 @@ hr.section-flourish, .section-flourish, [data-section-divider] {
   height: 2px;
   margin: 1.25rem auto;
   border: 0;
-  background: linear-gradient(90deg, transparent, var(--accent, var(--primary, #C36A4A)) 30%, var(--accent, var(--primary, #C36A4A)) 70%, transparent);
+  background: linear-gradient(90deg, transparent, var(--accent, var(--primary, #D8947A)) 30%, var(--accent, var(--primary, #D8947A)) 70%, transparent);
   border-radius: 999px;
   opacity: 0.85;
 }
@@ -3081,7 +3081,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-cta-section__btn--primary:hover {
-  background-color: #C9785B;
+  background-color: #DDA28C;
   box-shadow: var(--shadow-btn-hover);
   transform: translateY(-2px);
 }
@@ -3427,7 +3427,7 @@ main { flex: 1 0 auto; }
     font-family: 'Rubik', sans-serif;
     font-size: 2.5rem;
     font-weight: 700;
-    color: var(--secondary, #C9785B);
+    color: var(--secondary, #DDA28C);
     opacity: 0.2;
     line-height: 1;
 }
@@ -3906,7 +3906,7 @@ main { flex: 1 0 auto; }
   content: '';
   width: 8px;
   height: 8px;
-  background: #C9785B;
+  background: #DDA28C;
   border-radius: 50%;
   flex-shrink: 0;
   margin-top: 8px;
@@ -4054,7 +4054,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-location-section .about-location-cta:hover {
-  background-color: #C9785B;
+  background-color: #DDA28C;
   box-shadow: 0 12px 40px rgba(200,97,74,0.35);
   transform: translateY(-2px);
 }
@@ -4900,7 +4900,7 @@ main { flex: 1 0 auto; }
 }
 
 .speech-therapy-contact-prompt-section .prompt-cta-btn:hover {
-  background: #C9785B;
+  background: #DDA28C;
   box-shadow: var(--shadow-btn-hover, 0 8px 30px rgba(0,0,0,0.2));
   transform: translateY(-2px);
 }
@@ -5114,11 +5114,11 @@ main { flex: 1 0 auto; }
 }
 
 .parent-coaching-education-introduction-section .btn-ghost-terracotta {
-  color: #ae5839;
+  color: #b05634;
 }
 
 .parent-coaching-education-introduction-section .btn-ghost-terracotta:hover {
-  border-bottom-color: #C9785B;
+  border-bottom-color: #DDA28C;
   gap: 12px;
 }
 
@@ -5597,7 +5597,7 @@ main { flex: 1 0 auto; }
 }
 
 .parent-coaching-education-education-guidance-section .btn-primary {
-    background: #C9785B;
+    background: #DDA28C;
     color: #FFFFFF;
     padding: 14px 28px;
     border-radius: 50px;
@@ -5710,7 +5710,7 @@ main { flex: 1 0 auto; }
   display: flex;
   justify-content: center;
   margin-bottom: 24px;
-  color: #b55c3c;
+  color: #b85a36;
   opacity: 0.8;
 }
 
@@ -5781,7 +5781,7 @@ main { flex: 1 0 auto; }
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #a65437;
+  color: #a85232;
   flex-shrink: 0;
 }
 
@@ -5971,7 +5971,7 @@ main { flex: 1 0 auto; }
 }
 
 .parent-coaching-education-inquiry-section .pcei-cta:hover {
-    background-color: #C9785B;
+    background-color: #DDA28C;
     box-shadow: 0 8px 24px rgba(201,120,91,0.35);
     transform: translateY(-2px);
 }
@@ -6561,7 +6561,7 @@ main { flex: 1 0 auto; }
 }
 
 .faq-recommendations-reviews-section .btn-primary {
-  background: #C9785B;
+  background: #DDA28C;
   color: #FFFFFF;
   padding: 14px 28px;
   border-radius: 50px;
@@ -6890,7 +6890,7 @@ main { flex: 1 0 auto; }
 }
 
 .faq-recommendations-next-step-section__cta:hover {
-  background: #C9785B;
+  background: #DDA28C;
   transform: translateY(-2px);
   box-shadow: 0 12px 40px rgba(200, 97, 74, 0.35);
 }
@@ -7330,7 +7330,7 @@ main { flex: 1 0 auto; }
 }
 
 .contact-contact-form-section__submit:hover {
-  background: #C9785B;
+  background: #DDA28C;
   box-shadow: 0 8px 24px rgba(200, 97, 74, 0.35);
   transform: translateY(-2px);
 }
@@ -8059,7 +8059,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
  * defaults for the preferences modal's two secondary pills). */
 #zappy-cookie-banner .zappy-cookie-banner__button--customize {
   background-color: transparent !important;
-  color: #946c28 !important;
+  color: #b85a36 !important;
   border: none !important;
   padding: 0 8px !important;
   height: 32px !important;
@@ -8069,7 +8069,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 #zappy-cookie-banner .zappy-cookie-banner__button--customize:hover {
-  color: #946c28 !important;
+  color: #b85a36 !important;
   background-color: transparent !important;
 }
 
@@ -8451,11 +8451,17 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+
 /* === BUTTON TEXT OVERRIDES START === */
 .btn-primary,
 .btn--primary,
 [class*="btn-primary"],
 [class*="btn--primary"] { color: #333333 !important; }
+.btn-secondary,
+.btn--secondary,
+[class*="btn-secondary"],
+[class*="btn--secondary"] { color: #333333 !important; }
 .navbar .nav-cta-btn,
 .nav-cta-btn { color: #333333 !important; }
 /* === BUTTON TEXT OVERRIDES END === */
