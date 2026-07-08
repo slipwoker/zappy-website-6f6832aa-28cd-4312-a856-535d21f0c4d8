@@ -52,7 +52,7 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: nitzana3@gmail.com
 
 ### Contact form
 - URL: https://example.com/contact
