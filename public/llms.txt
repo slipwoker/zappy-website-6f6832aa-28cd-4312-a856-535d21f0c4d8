@@ -55,7 +55,7 @@ Information about WCAG compliance and accessibility features.
 - Email: nitzana3@gmail.com
 
 ### Contact form
-- URL: https://example.com/contact
+- URL: https://example.com
 - Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
@@ -64,7 +64,7 @@ Information about WCAG compliance and accessibility features.
   - `email` (email, required)
   - `phone` (tel)
   - `message` (textarea, required)
-  - `privacy_consent` (checkbox, required)
+  - `privacy` (checkbox, required)
 
 ---
 

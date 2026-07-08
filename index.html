@@ -1481,6 +1481,98 @@
   </div>
 </section>
 
+<section class="contact-section" id="contact" aria-label="צור קשר">
+  <div class="contact-container">
+    <div class="contact-header">
+      <h2 class="contact-title">צור קשר</h2>
+      <p class="contact-subtitle">אני מזמינה אתכם ליצור איתי קשר לכל שאלה, התייעצות או קביעת פגישה. אשמח לשמוע מכם ולסייע בכל דרך שאוכל.</p>
+    </div>
+
+    <div class="contact-grid">
+      <!-- Form Column -->
+      <div class="contact-form-wrapper">
+        <form class="contact-form" novalidate="">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="contact-name" class="form-label">שם מלא *</label>
+              <input type="text" id="contact-name" name="name" class="form-input" required="" placeholder="הזינו את שמכם המלא" autocomplete="name">
+            </div>
+          </div>
+          <div class="form-row form-row-split">
+            <div class="form-group">
+              <label for="contact-email" class="form-label">דוא״ל *</label>
+              <input type="email" id="contact-email" name="email" class="form-input" required="" placeholder="your@email.com" autocomplete="email">
+            </div>
+            <div class="form-group">
+              <label for="contact-phone" class="form-label">טלפון</label>
+              <input type="tel" id="contact-phone" name="phone" class="form-input" placeholder="050-0000000" autocomplete="tel">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="contact-message" class="form-label">הודעה *</label>
+              <textarea id="contact-message" name="message" class="form-textarea" required="" placeholder="כתבו את הודעתכם כאן..." rows="5"></textarea>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-checkbox-group">
+              <input type="checkbox" id="contact-privacy" name="privacy" class="form-checkbox" required="">
+              <label for="contact-privacy" class="form-checkbox-label">אני מאשר/ת את <a href="#" class="privacy-link">מדיניות הפרטיות</a> ומסכים/ה לקבלת מידע *</label>
+            </div>
+          </div>
+          <div class="form-row">
+            <button type="submit" class="form-submit-btn">
+              <span class="btn-text">שליחת הודעה</span>
+              <span class="btn-icon" aria-hidden="true">✉</span>
+            </button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Info Column -->
+      <div class="contact-info-wrapper">
+        <div class="info-cards">
+          <article class="info-card">
+            <div class="info-card-icon" aria-hidden="true">
+              <img data-placeholder="contact-location-icon" data-context="Map pin location icon for clinic area information" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2748%27 height=%2748%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EIcon%3C/text%3E%3C/svg%3E" alt="סמל מיקום" class="info-card-icon-img">
+            </div>
+            <h3 class="info-card-title">אזור הקליניקה</h3>
+            <p class="info-card-text">הקליניקה ממוקמת באזור השרון, נגישה ונוחה להגעה. ניתן לקבוע פגישות גם בזום לפי הצורך.</p>
+          </article>
+
+          <article class="info-card">
+            <div class="info-card-icon" aria-hidden="true">
+              <img data-placeholder="contact-audience-icon" data-context="Family or parent-child icon representing service audience" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2748%27 height=%2748%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EIcon%3C/text%3E%3C/svg%3E" alt="סמל קהל יעד" class="info-card-icon-img">
+            </div>
+            <h3 class="info-card-title">למי השירות מתאים</h3>
+            <p class="info-card-text">השירות מיועד להורים לילדים בגילאי 0-6, המעוניינים להעמיק את ההבנה בהתפתחות ילדם ולרכוש כלים מעשיים למשחק ותקשורת.</p>
+          </article>
+
+          <article class="info-card">
+            <div class="info-card-icon" aria-hidden="true">
+              <img data-placeholder="contact-topics-icon" data-context="Speech bubble or communication icon representing contact topics" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2748%27 height=%2748%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EIcon%3C/text%3E%3C/svg%3E" alt="סמל נושאי פנייה" class="info-card-icon-img">
+            </div>
+            <h3 class="info-card-title">נושאי פנייה</h3>
+            <p class="info-card-text">עיכוב שפתי, קשיי תקשורת, הדרכת הורים, ליווי התפתחותי, משחקיות מותאמת, ויסות חושי ועוד.</p>
+          </article>
+        </div>
+
+        <div class="contact-reassurance">
+          <div class="reassurance-image">
+            <img data-placeholder="contact-reassurance" data-context="Warm professional woman speech therapist smiling, calm and inviting atmosphere" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27300%27 height=%27200%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2714%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="ניצן אמסטר - קלינאית תקשורת" class="reassurance-img">
+          </div>
+          <blockquote class="reassurance-quote">
+            <p>"אני מאמינה שכל ילד הוא עולם ומלואו, וכל הורה הוא השותף המשמעותי ביותר במסע ההתפתחות. יחד נוכל ליצור את החיבור הנכון בין משחק, תקשורת ולמידה."</p>
+            <cite class="reassurance-cite">— ניצן אמסטר, קלינאית תקשורת ומדריכת הורים</cite>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
 
 
 
